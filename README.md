@@ -1,6 +1,6 @@
-😎 Hey! Nice to see you
+ Hola, I'm Vicky Kumar! 👋
 
- Hi, I'am Vicky Kumar! A Web developer - very keen on learning new stuff
+ A Web developer - very keen on learning new stuff
 
 
 - 👀 I’m interested in Tech, Science, Space and History.
@@ -10,6 +10,5 @@
 - ✔ Here's my [resume](https://github.com/vickykr78/vickykr78/files/8652574/resume.pdf)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickykr78 &theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=vickykr78&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
