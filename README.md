@@ -1,6 +1,6 @@
- Hola, I'm Vicky Kumar! 👋
+ ### Hola, I'm Vicky Kumar! 👋
 
- A Web developer - very keen on learning new stuff
+   A Web developer - very keen on learning new stuff
 
 
 - 👀 I’m interested in Tech, Science, Space and History.
