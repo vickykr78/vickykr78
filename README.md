@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning ReactJS.
 - 🙌 I have these skills: Node.js, Firebase, JS, HTML/CSS etc.
 - 💞️ I’m looking to collaborate on any JS project.
-- ✔ Here's my resume.
+- ✔ Here's my resume[Vicky's updatedResume .pdf](https://github.com/vickykr78/vickykr78/files/8652527/Vicky.s.updatedResume.pdf).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickykr78)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=vickykr78 &theme=radical)
+
